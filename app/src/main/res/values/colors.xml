@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="maastricht_blue_300">#6592C0</color>
+    <color name="maastricht_blue_400">#11233C</color>
+    <color name="maastricht_blue_500">#0A192F</color>
+    <color name="maastricht_blue_700">#050E21</color>
+    <color name="gold">#FBC403</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="grey_500">#71717A</color>
+    <color name="grey_400">#A1A1AA</color>
+    <color name="grey_200">#E4E4E7</color>
+    <color name="grey_100">#F4F4F5</color>
+</resources>

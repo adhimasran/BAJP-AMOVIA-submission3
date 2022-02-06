@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AMOVIA</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="title">%s (%s)</string>
+    <string name="backdrop">backdrop image</string>
+    <string name="img_poster">image poster</string>
+    <string name="release">Dec 12, 2021</string>
+    <string name="number">9</string>
+    <string name="rating_count">(%s)</string>
+    <string name="duration">%s</string>
+    <string name="overview">Overview</string>
+    <string name="genre">Genre</string>
+    
+    <string name="favorite_added">Favorite successfully added</string>
+    <string name="see_favorite">See</string>
+    <string name="favorite_removed">Removed from favorite</string>
+    <string name="undo">Undo</string>
+    <string name="delete">delete</string>
+
+    <string name="empty">No Favorite</string>
+    <string name="sort_by">Sort by:</string>
+</resources>

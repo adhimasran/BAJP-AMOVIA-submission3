@@ -1,0 +1,52 @@
+- Menampilkan data Movies
+	* Memastikan rv_movies dalam keadaan tampil.
+	* Gulir rv_movies ke posisi data terakhir.
+- Menampilkan data detail movie
+	* Memberi tindakan klik pada data pertama di rv_movies.
+	* Memastikan ImageView untuk backdrop tampil sesuai dengan yang diharapkan.
+	* Memastikan ImageView untuk poster tampil sesuai dengan yang diharapkan.
+	* Memastikan TextView untuk title tampil sesuai dengan yang diharapkan.
+	* Memastikan TextView untuk tagline tampil sesuai dengan yang diharpkan.
+	* Memastikan TextView untuk rating tampil sesuai dengan yang diharpkan.
+	* Memastikan TextView untuk ratingCount tampil sesuai dengan yang diharpkan.
+	* Memastikan TextView untuk release tampil sesuai dengan yang diharapkan.
+	* Memastikan TextView untuk duration tampil sesuai dengna yang diharapkan.
+	* Memastikan TextView untuk overview tampil sesuai dengan yang diharapkan.
+	* Memastikan ImageButton untuk favorite tampil sesuai dengan yang diharapkan.
+	* Memastikan ChipGroup untuk genre tampil sesuai dengan yang diharapkan.
+- Menampilkan data TV Shows
+	* Memberikan tindakan klik pada Tab Layout dengan text TV SHOW.
+	* Memastikan rv_tv_shows dalam keadaan tampil.
+	* Gulir rv_tv_shows ke posisi data terakhir.
+- Menampilkan data detail tv show
+	* Memberikan tindakan klik pada Tab Layout dengan text TV SHOW.
+	* Memberi tindakan klik pada data pertama di rv_tv_show.
+	* Memastikan ImageView untuk backdrop tampil sesuai dengan yang diharapkan.
+	* Memastikan ImageView untuk poster tampil sesuai dengan yang diharapkan.
+	* Memastikan TextView untuk title tampil sesuai dengan yang diharapkan.
+	* Memastikan TextView untuk tagline tampil sesuai dengan yang diharpkan.
+	* Memastikan TextView untuk rating tampil sesuai dengan yang diharpkan.
+	* Memastikan TextView untuk ratingCount tampil sesuai dengan yang diharpkan.
+	* Memastikan TextView untuk release tampil sesuai dengan yang diharapkan.
+	* Memastikan TextView untuk duration tampil sesuai dengan yang diharapkan.
+	* Memastikan TextView untuk overview tampil sesuai dengan yang diharapkan.
+	* Memastikan ImageButton untuk favorite tampil sesuai dengn yang diharapkan.
+	* Memastikan ChipGroup untuk genre tampil sesuai dengan yang diharapkan.
+- Menampilkan data favorite movies
+	* Memberikan tindakan klik pada data ke-3 di rv_movies.
+	* Memberikan tindakan klik pada tombol favorite untuk menambahkan data favorite.
+	* Memberikan tindakan pressBack().
+	* Memberikan tindakan klik pada bottom navigation dengan id navigation_favorite.
+	* Memastikan rv_movies dalam keadaan tampil.
+	* Memberikan tindakan klik pada tombol delete.
+	* Memastikan empty state tampil sesuai dengan yang diharapkan.
+- Menampilkan data favorite tv shows
+	* Memberikan tindakan klik pada Tab Layout dengan text TV SHOW.
+	* Memberikan tindakan klik pada data ke-3 di rv_tv_shows.
+	* Memberikan tindakan klik pada tombol favorite untuk menambahkan data favorite.
+	* Memberikan tindakan pressBack().
+	* Memberikan tindakan klik pada bottom navigation dengan id navigation_favorite.
+	* Memberikan tindakan klik pada Tab Layout dengan text TV SHOW.
+	* Memastikan rv_tv_shows dalam keadaan tampil.
+	* Memberikan tindakan klik pada tombol delete.
+	* Memastikan empty state tampil sesuai dengan yang diharapkan.
